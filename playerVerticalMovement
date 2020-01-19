@@ -1,0 +1,32 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class playerVerticalMovement : MonoBehaviour
+{
+	public Vector2 targetPos;
+	public float Yincrement;
+    //the value input for Yincrement decides the scale of the sprite's vertical movement.
+    public float speed;
+    public float maxHeight;
+    public float minHeight;
+    //maxHeight and minHeight prevent the sprite from moving off of the screen.
+   
+    void Start()
+    {
+        
+    }
+
+   
+    public void Update()
+    {
+    	transform.position = Vector2.MoveTowards(transform.position, targetPos, speed + Time.deltaTime);
+
+        if (Input.GetKeyDown(KeyCode.Space) && transform.position.y < maxHeight) {
+        	targetPos = new Vector2(transform.position.x, transform.position.y + Yincrement);
+
+        } else if (Input.GetKeyDown(KeyCode.RightShift) && transform.position.y > minHeight){
+        	targetPos = new Vector2(transform.position.x, transform.position.y - Yincrement);
+        }
+    }
+}
