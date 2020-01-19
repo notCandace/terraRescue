@@ -3,17 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class arrowBehavior : MonoBehaviour
+public class titleScript : MonoBehaviour
 {
     public Vector3 targetPos;
     public float Yincrement;
-    //the value input for Yincrement decides the scale of the sprite's vertical movement.
     public float speed;
     public float maxHeight;
     public float minHeight;
     public int zPos = -2;
     public string levelName;
-    //maxHeight and minHeight prevent the sprite from moving off of the screen.
    
     void Start()
     {
@@ -35,13 +33,12 @@ public class arrowBehavior : MonoBehaviour
         }
 
         if (Input.GetKeyDown(KeyCode.Return)){
-            if (transform.position.y > -1.07){
-                levelName = "Play Menu";
-                Debug.Log("Play screen");
-            } else if (transform.position.y < -1.08){
-                Debug.Log("Credits screen");
+            if (transform.position.y > -1.5){
+                levelName = "Skin screen";
+            } else if (transform.position.y < -2){
+                levelName = "Credits screen";
             } else if ((transform.position.y < maxHeight) && (transform.position.y > minHeight)) {
-                Debug.Log("Learn more screen");
+                levelName = "Info screen";
             }
             SceneManager.LoadScene(levelName);
         }
