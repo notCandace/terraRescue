@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.4465782, g: 0.49641252, b: 0.5748167, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657874, g: 0.4964127, b: 0.5748172, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -12176,6 +12176,7 @@ GameObject:
   - component: {fileID: 2000489414}
   - component: {fileID: 2000489413}
   - component: {fileID: 2000489418}
+  - component: {fileID: 2000489419}
   m_Layer: 0
   m_Name: Cattle Pixel_0
   m_TagString: Untagged
@@ -12196,7 +12197,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.32347435, y: -0.17643923}
+  m_Offset: {x: -0.33204603, y: -0.124999344}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -12207,7 +12208,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.3439106, y: 2.5789866}
+  m_Size: {x: 1.1895857, y: 2.4761066}
   m_EdgeRadius: 0
 --- !u!50 &2000489414
 Rigidbody2D:
@@ -12306,7 +12307,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2000489412}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2333, y: 31, z: -312}
+  m_LocalPosition: {x: -2333, y: 32, z: -312}
   m_LocalScale: {x: 35, y: 35, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -12324,3 +12325,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df5e2f602a665e54c947f48cd2baca4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  jumpVelocity: 5.7
+--- !u!114 &2000489419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2000489412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea1195d0a1021214bafd82387857aafe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rigidbod2dy: {fileID: 0}
