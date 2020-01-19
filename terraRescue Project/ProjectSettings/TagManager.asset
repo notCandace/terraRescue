@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - death
+  - grapple
+  - under da sea
+  - down with the cows
+  - collect
   layers:
   - Default
   - TransparentFX

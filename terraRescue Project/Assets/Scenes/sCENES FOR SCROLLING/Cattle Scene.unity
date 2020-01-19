@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657874, g: 0.4964127, b: 0.5748172, a: 1}
+  m_IndirectSpecularColor: {r: 0.4465782, g: 0.49641252, b: 0.5748167, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -461,7 +461,7 @@ GameObject:
   - component: {fileID: 1084475656}
   m_Layer: 0
   m_Name: cruisePNG
-  m_TagString: Untagged
+  m_TagString: under da sea
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12175,6 +12175,7 @@ GameObject:
   - component: {fileID: 2000489415}
   - component: {fileID: 2000489414}
   - component: {fileID: 2000489413}
+  - component: {fileID: 2000489418}
   m_Layer: 0
   m_Name: Cattle Pixel_0
   m_TagString: Untagged
@@ -12311,3 +12312,15 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2000489418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2000489412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df5e2f602a665e54c947f48cd2baca4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
