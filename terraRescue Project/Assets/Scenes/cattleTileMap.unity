@@ -9913,6 +9913,7 @@ GameObject:
   - component: {fileID: 939147007}
   - component: {fileID: 939147009}
   - component: {fileID: 939147008}
+  - component: {fileID: 939147010}
   m_Layer: 0
   m_Name: Little Man!
   m_TagString: Untagged
@@ -10037,7 +10038,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.34028053, y: -0.07291794}
+  m_Offset: {x: -0.32321167, y: -0.12411451}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -10048,7 +10049,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.353323, y: 2.5963778}
+  m_Size: {x: 1.1587524, y: 2.4939847}
   m_EdgeRadius: 0
 --- !u!114 &939147008
 MonoBehaviour:
@@ -10076,6 +10077,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fallMultiplier: 2.5
   lowJumpMultiplier: 2
+--- !u!58 &939147010
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 939147002}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.34131217, y: -0.8020849}
+  serializedVersion: 2
+  m_Radius: 0.548362
 --- !u!1 &1206732229
 GameObject:
   m_ObjectHideFlags: 0

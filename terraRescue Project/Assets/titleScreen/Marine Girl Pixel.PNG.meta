@@ -1,0 +1,766 @@
+fileFormatVersion: 2
+guid: 6c6efaa28d97a469991f2c5159f1fd96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4697314061211253850
+    second: Marine Girl Pixel_0
+  - first:
+      213: -4356754751255944571
+    second: Marine Girl Pixel_1
+  - first:
+      213: -6121172437141551822
+    second: Marine Girl Pixel_2
+  - first:
+      213: -3819028855339416826
+    second: Marine Girl Pixel_3
+  - first:
+      213: -7927877150815692031
+    second: Marine Girl Pixel_4
+  - first:
+      213: -5005001965282846145
+    second: Marine Girl Pixel_5
+  - first:
+      213: -1174393408160067194
+    second: Marine Girl Pixel_6
+  - first:
+      213: 7869219613412222830
+    second: Marine Girl Pixel_7
+  - first:
+      213: -8197618308975156315
+    second: Marine Girl Pixel_8
+  - first:
+      213: 78117836400311563
+    second: Marine Girl Pixel_9
+  - first:
+      213: -8337362906265481611
+    second: Marine Girl Pixel_10
+  - first:
+      213: 4962610727756191781
+    second: Marine Girl Pixel_11
+  - first:
+      213: 5743675621010501031
+    second: Marine Girl Pixel_12
+  - first:
+      213: -2347523830787600258
+    second: Marine Girl Pixel_13
+  - first:
+      213: -6026540647583951467
+    second: Marine Girl Pixel_14
+  - first:
+      213: -1921315213653422840
+    second: Marine Girl Pixel_15
+  - first:
+      213: 560664795676008173
+    second: Marine Girl Pixel_16
+  - first:
+      213: -1516147383925453806
+    second: Marine Girl Pixel_17
+  - first:
+      213: -5850618016728757729
+    second: Marine Girl Pixel_18
+  - first:
+      213: -6900211522963236841
+    second: Marine Girl Pixel_19
+  - first:
+      213: 8598360578479554043
+    second: Marine Girl Pixel_20
+  - first:
+      213: -8821890757247109187
+    second: Marine Girl Pixel_21
+  - first:
+      213: 9048821770416471739
+    second: Marine Girl Pixel_22
+  - first:
+      213: -4137614856412316394
+    second: Marine Girl Pixel_23
+  - first:
+      213: -6171251236608271569
+    second: Marine Girl Pixel_24
+  - first:
+      213: -173672883397500427
+    second: Marine Girl Pixel_25
+  - first:
+      213: -8241509232882494959
+    second: Marine Girl Pixel_26
+  - first:
+      213: 3566045984792009745
+    second: Marine Girl Pixel_27
+  - first:
+      213: -962101044685459427
+    second: Marine Girl Pixel_28
+  - first:
+      213: 1781347377211282583
+    second: Marine Girl Pixel_29
+  - first:
+      213: 9164453962780612735
+    second: Marine Girl Pixel_30
+  - first:
+      213: -6175564948207045342
+    second: Marine Girl Pixel_31
+  - first:
+      213: -7892347131630973944
+    second: Marine Girl Pixel_32
+  - first:
+      213: 4508442547526740144
+    second: Marine Girl Pixel_33
+  - first:
+      213: 1041599474860426654
+    second: Marine Girl Pixel_34
+  - first:
+      213: -4297794983185576250
+    second: Marine Girl Pixel_35
+  - first:
+      213: 6895245414811446488
+    second: Marine Girl Pixel_36
+  - first:
+      213: 1794569715824857692
+    second: Marine Girl Pixel_37
+  - first:
+      213: 1723736675215260746
+    second: Marine Girl Pixel_38
+  - first:
+      213: 3892945423463365197
+    second: Marine Girl Pixel_39
+  - first:
+      213: 7169874813833625837
+    second: Marine Girl Pixel_40
+  - first:
+      213: -7518043843076207512
+    second: Marine Girl Pixel_41
+  - first:
+      213: -3812551843070338361
+    second: Marine Girl Pixel_42
+  - first:
+      213: -308980153151508514
+    second: Marine Girl Pixel_43
+  - first:
+      213: 1684238074714912151
+    second: Marine Girl Pixel_44
+  - first:
+      213: -2642849275963730051
+    second: Marine Girl Pixel_45
+  - first:
+      213: -3167348804922900637
+    second: Marine Girl Pixel_46
+  - first:
+      213: -8066726380897949674
+    second: Marine Girl Pixel_47
+  - first:
+      213: 2805761805288696358
+    second: Marine Girl Pixel_48
+  - first:
+      213: -8860377111187452863
+    second: Marine Girl Pixel_49
+  - first:
+      213: -6248251400955837868
+    second: Marine Girl Pixel_50
+  - first:
+      213: 850277843862767350
+    second: Marine Girl Pixel_51
+  - first:
+      213: 6063767991148197498
+    second: Marine Girl Pixel_52
+  - first:
+      213: 4295071096391546100
+    second: Marine Girl Pixel_53
+  - first:
+      213: 8899782659647651352
+    second: Marine Girl Pixel_54
+  - first:
+      213: 9005181281195337521
+    second: Marine Girl Pixel_55
+  - first:
+      213: 1015482298101596182
+    second: Marine Girl Pixel_56
+  - first:
+      213: -3847774743544303150
+    second: Marine Girl Pixel_57
+  - first:
+      213: 9212796478007851325
+    second: Marine Girl Pixel_58
+  - first:
+      213: 2684309209598004570
+    second: Marine Girl Pixel_59
+  - first:
+      213: -4501749452228206434
+    second: Marine Girl Pixel_60
+  - first:
+      213: -6002928326338784297
+    second: Marine Girl Pixel_61
+  - first:
+      213: 8497185804491160396
+    second: Marine Girl Pixel_62
+  - first:
+      213: -3923361917076275864
+    second: Marine Girl Pixel_63
+  - first:
+      213: 3601404666211029596
+    second: Marine Girl Pixel_64
+  - first:
+      213: -8051970560683136006
+    second: Marine Girl Pixel_65
+  - first:
+      213: 5678333214715441688
+    second: Marine Girl Pixel_66
+  - first:
+      213: 946717093859049216
+    second: Marine Girl Pixel_67
+  - first:
+      213: 6646002213812052854
+    second: Marine Girl Pixel_68
+  - first:
+      213: 4207663921812934021
+    second: Marine Girl Pixel_69
+  - first:
+      213: 1562516163017123917
+    second: Marine Girl Pixel_70
+  - first:
+      213: -6884299253273905561
+    second: Marine Girl Pixel_71
+  - first:
+      213: -9046237215019984148
+    second: Marine Girl Pixel_72
+  - first:
+      213: -318026167328928949
+    second: Marine Girl Pixel_73
+  - first:
+      213: 8522195382671935654
+    second: Marine Girl Pixel_74
+  - first:
+      213: 3711196602186285453
+    second: Marine Girl Pixel_75
+  - first:
+      213: 6646180488032239796
+    second: Marine Girl Pixel_76
+  - first:
+      213: -3196034050314122672
+    second: Marine Girl Pixel_77
+  - first:
+      213: -3400275159549372280
+    second: Marine Girl Pixel_78
+  - first:
+      213: -7341024887353654604
+    second: Marine Girl Pixel_79
+  - first:
+      213: 5537235037808051827
+    second: Marine Girl Pixel_80
+  - first:
+      213: -7096631601622890591
+    second: Marine Girl Pixel_81
+  - first:
+      213: 3422760590888417560
+    second: Marine Girl Pixel_82
+  - first:
+      213: 990016469314577304
+    second: Marine Girl Pixel_83
+  - first:
+      213: -7271340727020478776
+    second: Marine Girl Pixel_84
+  - first:
+      213: 748250265553037086
+    second: Marine Girl Pixel_85
+  - first:
+      213: -8785475827100074598
+    second: Marine Girl Pixel_86
+  - first:
+      213: -3782601441783928040
+    second: Marine Girl Pixel_87
+  - first:
+      213: -4917710833620460904
+    second: Marine Girl Pixel_88
+  - first:
+      213: -4354444440108318922
+    second: Marine Girl Pixel_89
+  - first:
+      213: 1040068635915094945
+    second: Marine Girl Pixel_90
+  - first:
+      213: -6942524003951767637
+    second: Marine Girl Pixel_91
+  - first:
+      213: -4205609174041477497
+    second: Marine Girl Pixel_92
+  - first:
+      213: 7260209281431926830
+    second: Marine Girl Pixel_93
+  - first:
+      213: 8496313056327085909
+    second: Marine Girl Pixel_94
+  - first:
+      213: 3437377910202141368
+    second: Marine Girl Pixel_95
+  - first:
+      213: 400969244479085604
+    second: Marine Girl Pixel_96
+  - first:
+      213: -641687147747467849
+    second: Marine Girl Pixel_97
+  - first:
+      213: -6151832746113859754
+    second: Marine Girl Pixel_98
+  - first:
+      213: -456233846178671355
+    second: Marine Girl Pixel_99
+  - first:
+      213: 361231600371374155
+    second: Marine Girl Pixel_100
+  - first:
+      213: -7932710062557008127
+    second: Marine Girl Pixel_101
+  - first:
+      213: -7906557375091210834
+    second: Marine Girl Pixel_102
+  - first:
+      213: -5663771114749211405
+    second: Marine Girl Pixel_103
+  - first:
+      213: -2706133550627538312
+    second: Marine Girl Pixel_104
+  - first:
+      213: 7648618670358082377
+    second: Marine Girl Pixel_105
+  - first:
+      213: 3374496791756145281
+    second: Marine Girl Pixel_106
+  - first:
+      213: 9211941018060240032
+    second: Marine Girl Pixel_107
+  - first:
+      213: -7409999799067916194
+    second: Marine Girl Pixel_108
+  - first:
+      213: 1455868523756989092
+    second: Marine Girl Pixel_109
+  - first:
+      213: 4178820953077698344
+    second: Marine Girl Pixel_110
+  - first:
+      213: -8735875143124106211
+    second: Marine Girl Pixel_111
+  - first:
+      213: -6657295407399272983
+    second: Marine Girl Pixel_112
+  - first:
+      213: -2452732848176489762
+    second: Marine Girl Pixel_113
+  - first:
+      213: -2870768036069451365
+    second: Marine Girl Pixel_114
+  - first:
+      213: 326690916677507299
+    second: Marine Girl Pixel_115
+  - first:
+      213: -8662741108110230801
+    second: Marine Girl Pixel_116
+  - first:
+      213: -6004541484521158780
+    second: Marine Girl Pixel_117
+  - first:
+      213: 5393667653123022973
+    second: Marine Girl Pixel_118
+  - first:
+      213: 4198497677735460867
+    second: Marine Girl Pixel_119
+  - first:
+      213: 5409695145772058814
+    second: Marine Girl Pixel_120
+  - first:
+      213: -6664971940124326618
+    second: Marine Girl Pixel_121
+  - first:
+      213: 1079537950423379578
+    second: Marine Girl Pixel_122
+  - first:
+      213: -2929196092489262205
+    second: Marine Girl Pixel_123
+  - first:
+      213: 8926517089156498096
+    second: Marine Girl Pixel_124
+  - first:
+      213: -8948468792126267048
+    second: Marine Girl Pixel_125
+  - first:
+      213: 9064192933108777697
+    second: Marine Girl Pixel_126
+  - first:
+      213: -2345713315911613253
+    second: Marine Girl Pixel_127
+  - first:
+      213: 4861942119006816297
+    second: Marine Girl Pixel_128
+  - first:
+      213: 9129951076270541504
+    second: Marine Girl Pixel_129
+  - first:
+      213: 3074980355172898431
+    second: Marine Girl Pixel_130
+  - first:
+      213: 5683992474388764825
+    second: Marine Girl Pixel_131
+  - first:
+      213: -1358282450064664976
+    second: Marine Girl Pixel_132
+  - first:
+      213: -4329038375411167233
+    second: Marine Girl Pixel_133
+  - first:
+      213: 776035558389005751
+    second: Marine Girl Pixel_134
+  - first:
+      213: -5440298344732565811
+    second: Marine Girl Pixel_135
+  - first:
+      213: -3903856965864786193
+    second: Marine Girl Pixel_136
+  - first:
+      213: -6783583593784222439
+    second: Marine Girl Pixel_137
+  - first:
+      213: -1402055671863584254
+    second: Marine Girl Pixel_138
+  - first:
+      213: 1202723691952889261
+    second: Marine Girl Pixel_139
+  - first:
+      213: -2431076238979860869
+    second: Marine Girl Pixel_140
+  - first:
+      213: 6212129123391846434
+    second: Marine Girl Pixel_141
+  - first:
+      213: 4138932649663530693
+    second: Marine Girl Pixel_142
+  - first:
+      213: 7046927615546003127
+    second: Marine Girl Pixel_143
+  - first:
+      213: -5932296711846046118
+    second: Marine Girl Pixel_144
+  - first:
+      213: -6870408957930650563
+    second: Marine Girl Pixel_145
+  - first:
+      213: 8901693429309290085
+    second: Marine Girl Pixel_146
+  - first:
+      213: 8795266181921875206
+    second: Marine Girl Pixel_147
+  - first:
+      213: 8754786269693069662
+    second: Marine Girl Pixel_148
+  - first:
+      213: 6211824710076154490
+    second: Marine Girl Pixel_149
+  - first:
+      213: 2500959418353092584
+    second: Marine Girl Pixel_150
+  - first:
+      213: 6545595553845167401
+    second: Marine Girl Pixel_151
+  - first:
+      213: -2997988571298427330
+    second: Marine Girl Pixel_152
+  - first:
+      213: 1677831107272223854
+    second: Marine Girl Pixel_153
+  - first:
+      213: -6973778424993444044
+    second: Marine Girl Pixel_154
+  - first:
+      213: -556219468618729722
+    second: Marine Girl Pixel_155
+  - first:
+      213: 799603079691521667
+    second: Marine Girl Pixel_156
+  - first:
+      213: -2468439498238417818
+    second: Marine Girl Pixel_157
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marine Girl Pixel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 352
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85b841009bf947718e96d245f2fe03c
+      internalID: -4697314061211253850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marine Girl Pixel_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 704
+        width: 352
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756f4fb866e764983b0e1fb8869d9d2a
+      internalID: -4356754751255944571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marine Girl Pixel_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 352
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66caeeadbcb944bc8cab298ba0d6f27
+      internalID: -6121172437141551822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marine Girl Pixel_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 352
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3b4f28ec5e946eca60e61616dff5bb
+      internalID: -3819028855339416826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marine Girl Pixel_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 352
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2acc8902f35e44d6aa8f72883b2dbc2
+      internalID: -7927877150815692031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marine Girl Pixel_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 352
+        width: 352
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e606265f25bd4803bfaca30fdbbc984
+      internalID: -5005001965282846145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marine Girl Pixel_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 352
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109bcbcf0a3064109ba2b1c6770e83ea
+      internalID: -1174393408160067194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marine Girl Pixel_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 352
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d3bb11caee346d48505dd4f946f23f
+      internalID: 7869219613412222830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marine Girl Pixel_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 352
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef3d242a4c0648f09570716a993dec3
+      internalID: -8197618308975156315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 19e722d4788e941d5b2764b7dec4e375
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
