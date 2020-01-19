@@ -18,7 +18,7 @@ public class mouseFollow : MonoBehaviour
     void Update()
     {
         Vector3 temp = Input.mousePosition;
-        temp.z = 1000f;
+        temp.z = 600f;
 
         this.transform.position = Camera.main.ScreenToWorldPoint(temp);
 
