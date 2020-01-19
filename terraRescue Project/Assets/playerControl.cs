@@ -4,16 +4,60 @@ using UnityEngine;
 
 public class playerControl : MonoBehaviour
 {
+    [Range(1, 10)]
+    public float jumpVelocity;
+
+    /*
+    public float speed;
+    public float jumpForce;
+    private float moveInput;
+
+    private Rigidbody2D rb;
+
+    private bool isGrounded;
+    public Transform groundcheck;
+    public float checkRadius;
+    public LayerMask whatIsGround;
+
+    private int extraJumps;
+    public int extraJumpsValue;
+    */
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        //extraJumps = extraJumpsValue;
+        //rb = GetComponent<Rigidbody2D>();
+    }
+
+    void FixedUpdate()
+    {
+        //isGrounded = Physics2D.OverlapCircle(groundcheck.position, checkRadius, whatIsGround);
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if(Input.GetButtonDown("Jump"))
+        {
+            GetComponent<Rigidbody2D>().velocity = Vector2.up * jumpVelocity;
+        }
+
+        /*
+        if (isGrounded == true)
+        {
+            extraJumps = extraJumpsValue;
+        }
+
+        if(Input.GetKeyDown("space") && extraJumps > 0)
+        {
+            rb.velocity = Vector2.up * jumpForce;
+            extraJumps--;
+        } else if (Input.GetKeyDown("space") && extraJumps == 0 && isGrounded == true)
+        {
+            rb.velocity = Vector2.up * jumpForce;
+        }
+        */
     }
 
     void OnTriggerEnter2D(Collider2D other)
