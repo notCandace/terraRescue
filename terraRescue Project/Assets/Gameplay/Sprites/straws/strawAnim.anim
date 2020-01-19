@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Little Man! Animation
+  m_Name: strawAnim
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,31 +20,22 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -4942737737871122393, guid: b78c8fac8c1ba4817807b6bfd6bfffa5,
+      value: {fileID: 6999121642964355768, guid: 5acd04d76aec51644b64c1e676f2fa71,
         type: 3}
     - time: 0.083333336
-      value: {fileID: 4572973440195370742, guid: b78c8fac8c1ba4817807b6bfd6bfffa5,
+      value: {fileID: 3867410433715555845, guid: 5acd04d76aec51644b64c1e676f2fa71,
         type: 3}
     - time: 0.16666667
-      value: {fileID: 8442671761935176958, guid: b78c8fac8c1ba4817807b6bfd6bfffa5,
+      value: {fileID: 8587501086747945367, guid: 5acd04d76aec51644b64c1e676f2fa71,
         type: 3}
     - time: 0.25
-      value: {fileID: 4682558770360025335, guid: b78c8fac8c1ba4817807b6bfd6bfffa5,
+      value: {fileID: 7775489948043077556, guid: 5acd04d76aec51644b64c1e676f2fa71,
         type: 3}
     - time: 0.33333334
-      value: {fileID: -4907279663207376998, guid: b78c8fac8c1ba4817807b6bfd6bfffa5,
+      value: {fileID: -5384296787580239139, guid: 5acd04d76aec51644b64c1e676f2fa71,
         type: 3}
     - time: 0.41666666
-      value: {fileID: -2079993745296541848, guid: b78c8fac8c1ba4817807b6bfd6bfffa5,
-        type: 3}
-    - time: 0.5
-      value: {fileID: -8109940162432528658, guid: b78c8fac8c1ba4817807b6bfd6bfffa5,
-        type: 3}
-    - time: 0.5833333
-      value: {fileID: -8511103645901029958, guid: b78c8fac8c1ba4817807b6bfd6bfffa5,
-        type: 3}
-    - time: 0.6666667
-      value: {fileID: -3427236147550884316, guid: b78c8fac8c1ba4817807b6bfd6bfffa5,
+      value: {fileID: -8229289382671289049, guid: 5acd04d76aec51644b64c1e676f2fa71,
         type: 3}
     attribute: m_Sprite
     path: 
@@ -65,21 +56,18 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: -4942737737871122393, guid: b78c8fac8c1ba4817807b6bfd6bfffa5, type: 3}
-    - {fileID: 4572973440195370742, guid: b78c8fac8c1ba4817807b6bfd6bfffa5, type: 3}
-    - {fileID: 8442671761935176958, guid: b78c8fac8c1ba4817807b6bfd6bfffa5, type: 3}
-    - {fileID: 4682558770360025335, guid: b78c8fac8c1ba4817807b6bfd6bfffa5, type: 3}
-    - {fileID: -4907279663207376998, guid: b78c8fac8c1ba4817807b6bfd6bfffa5, type: 3}
-    - {fileID: -2079993745296541848, guid: b78c8fac8c1ba4817807b6bfd6bfffa5, type: 3}
-    - {fileID: -8109940162432528658, guid: b78c8fac8c1ba4817807b6bfd6bfffa5, type: 3}
-    - {fileID: -8511103645901029958, guid: b78c8fac8c1ba4817807b6bfd6bfffa5, type: 3}
-    - {fileID: -3427236147550884316, guid: b78c8fac8c1ba4817807b6bfd6bfffa5, type: 3}
+    - {fileID: 6999121642964355768, guid: 5acd04d76aec51644b64c1e676f2fa71, type: 3}
+    - {fileID: 3867410433715555845, guid: 5acd04d76aec51644b64c1e676f2fa71, type: 3}
+    - {fileID: 8587501086747945367, guid: 5acd04d76aec51644b64c1e676f2fa71, type: 3}
+    - {fileID: 7775489948043077556, guid: 5acd04d76aec51644b64c1e676f2fa71, type: 3}
+    - {fileID: -5384296787580239139, guid: 5acd04d76aec51644b64c1e676f2fa71, type: 3}
+    - {fileID: -8229289382671289049, guid: 5acd04d76aec51644b64c1e676f2fa71, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.75
+    m_StopTime: 0.5
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0

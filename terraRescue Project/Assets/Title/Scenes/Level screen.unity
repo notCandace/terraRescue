@@ -504,6 +504,7 @@ MonoBehaviour:
   maxDistance: 11.85
   minDistance: 0.45
   zPos: -1
+  levelName: 
 --- !u!212 &1821753917
 SpriteRenderer:
   m_ObjectHideFlags: 0

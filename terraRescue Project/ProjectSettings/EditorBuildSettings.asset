@@ -4,5 +4,32 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Title/Scenes/Title screen.unity
+    guid: ac4ef052845c743e986a360e17fbd737
+  - enabled: 1
+    path: Assets/Title/Scenes/Skin screen.unity
+    guid: cf70fc3e5127c4a41a401689e9daa987
+  - enabled: 1
+    path: Assets/Title/Scenes/Info screen.unity
+    guid: 8a05259a2b3a14da8bd49ae73b5e910f
+  - enabled: 1
+    path: Assets/Title/Scenes/Credits screen.unity
+    guid: a7b6abc03afd446f99e06bda8044c490
+  - enabled: 1
+    path: Assets/Title/Scenes/Level screen.unity
+    guid: 70dfc8d4ecc0240a98407d06dd130418
+  - enabled: 1
+    path: Assets/Gameplay/Scenes/sCENES FOR SCROLLING/Fire Scene.unity
+    guid: 6697a152a735d48669940141e366796e
+  - enabled: 1
+    path: Assets/Gameplay/Scenes/sCENES FOR SCROLLING/Cattle Scene.unity
+    guid: f7f384976011b41a88eaa9a5eb8318e8
+  - enabled: 1
+    path: Assets/Gameplay/Scenes/sCENES FOR SCROLLING/Legislature Scene.unity
+    guid: 62548f1b1598646bcb4b2084a3425446
+  - enabled: 1
+    path: Assets/Gameplay/Scenes/sCENES FOR SCROLLING/Ocean Scene.unity
+    guid: 368e24048d7b2447f84e136fb1505757
   m_configObjects: {}
