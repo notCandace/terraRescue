@@ -31,6 +31,7 @@ public class collisions : MonoBehaviour
         if (other.gameObject.tag == "death")
         {
             Destroy(gameObject);
+            text.text = "You... Died";
         }
         else if (other.gameObject.tag == "grapple")
         {

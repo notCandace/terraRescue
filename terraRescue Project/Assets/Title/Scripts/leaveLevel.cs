@@ -17,6 +17,8 @@ public class leaveLevel : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.B)) {
         	levelName = "Skin screen";
+    } else if (Input.GetKeyDown(KeyCode.Return)) {
+        levelName = "Ocean Scene";
     }
                 SceneManager.LoadScene(levelName);
             }

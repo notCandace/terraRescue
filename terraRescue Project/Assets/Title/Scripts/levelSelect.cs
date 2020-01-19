@@ -33,7 +33,7 @@ public class levelSelect : MonoBehaviour
 
     //deciding what level to land in//
         if (Input.GetKeyDown(KeyCode.Return)) {
-            if (transform.position.x == 0.45){
+            if (transform.position.x == 0.5){
             levelName = "Fire Scene";
                 } else if (transform.position.x == 4.25) {
                     levelName = "Cattle Scene";
