@@ -12176,7 +12176,6 @@ GameObject:
   - component: {fileID: 2000489414}
   - component: {fileID: 2000489413}
   - component: {fileID: 2000489418}
-  - component: {fileID: 2000489419}
   m_Layer: 0
   m_Name: Cattle Pixel_0
   m_TagString: Untagged
@@ -12326,16 +12325,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jumpVelocity: 5.7
---- !u!114 &2000489419
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2000489412}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ea1195d0a1021214bafd82387857aafe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rigidbod2dy: {fileID: 0}
