@@ -15,12 +15,11 @@ public class leaveLevel : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.B)) {
-        	levelName = "Skin screen";
-    } else if (Input.GetKeyDown(KeyCode.Return)) {
-        levelName = "Ocean Scene";
-    }
-                SceneManager.LoadScene(levelName);
-            }
+        if (Input.GetKeyDown(KeyCode.B))
+        {
+            levelName = "Skin screen";
 
+            SceneManager.LoadScene(levelName);
+        }
+    }
 }

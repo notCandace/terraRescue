@@ -21,29 +21,52 @@ public class levelSelect : MonoBehaviour
     void Update()
     {
         //moving the yellow bar around
-    	 transform.position = Vector3.MoveTowards(transform.position, targetPos, speed + Time.deltaTime);
+        transform.position = Vector3.MoveTowards(transform.position, targetPos, speed + Time.deltaTime);
 
-        if (Input.GetKeyDown(KeyCode.LeftArrow) && transform.position.x >= minDistance) {
+        if (Input.GetKeyDown(KeyCode.LeftArrow) && transform.position.x > minDistance)
+        {
             targetPos = new Vector3(transform.position.x - Xincrement, transform.position.y, zPos);
-        } else if(Input.GetKeyDown(KeyCode.RightArrow) && transform.position.y <= maxDistance){
-                    targetPos = new Vector3(transform.position.x + Xincrement, transform.position.y, zPos);
-        
+        }
+        else if (Input.GetKeyDown(KeyCode.RightArrow) && transform.position.x < maxDistance)
+        {
+            targetPos = new Vector3(transform.position.x + Xincrement, transform.position.y, zPos);
+
         }
 
+        Debug.Log(transform.position.x);
 
-    //deciding what level to land in//
-        if (Input.GetKeyDown(KeyCode.Return)) {
-            if (transform.position.x == 0.5){
-            levelName = "Fire Scene";
-                } else if (transform.position.x == 4.25) {
-                    levelName = "Cattle Scene";
-                } else if (transform.position.x == 8.05) {
-                    levelName = "Legislature Scene";
-                } else if (transform.position.x == 11.85) {
-                    levelName = "Ocean Scene";
-                }
+
+        //deciding what level to land in//
+        if (Input.GetKeyDown(KeyCode.Return))
+        {
+            if (transform.position.x == -.58f || transform.position.x == -.5799999f)
+            {
+                levelName = "Fire Scene";
+            }
+            else if (transform.position.x == 4.12f)
+            {
+                levelName = "Cattle Scene";
+            }
+            else if (transform.position.x == 8.82f)
+            {
+                levelName = "Legislature Scene";
+            }
+            else
+            {
+                levelName = "Ocean Scene";
+            }
             SceneManager.LoadScene(levelName);
 
         }
+        else if (Input.GetKeyDown(KeyCode.B))
+        {
+            levelName = "Skin screen";
+
+            SceneManager.LoadScene(levelName);
+
+        }
+
+        
     }
 }
+
